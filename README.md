@@ -14,10 +14,10 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a >
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=radical&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a >
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </a>
 
