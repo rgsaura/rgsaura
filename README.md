@@ -57,12 +57,21 @@
 
 ##
 
+<p align="left">
 <a href="https://rgsaura.com">
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=radical&rank_icon=github" />
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </a>
-<a href="https://rgsaura.com">
-  
-</a>
+</p>
 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/rgsaura/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/rgsaura/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.youtube.com/rgsaura/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+</p>
