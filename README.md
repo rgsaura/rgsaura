@@ -1,5 +1,5 @@
 <h1 align="left">⚡️ Hi! I'm Rodrigo</h1>
-<h3 align="left">⚔️ CyberDefender & Pen-tester | ⛅️ Cloud Engineer & Dev | 👓 ML & XR & Web3 | 🎬 Virtual Prod CGI</h3>
+<h3 align="left">⚔️ CyberDefender | ⛅️ Cloud Engineer| 👓 ML & XR & Web3 | 🎬 CGI</h3>
 
 
 <p align="left">
