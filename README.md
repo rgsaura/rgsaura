@@ -72,8 +72,8 @@
 
 <p align="left">
 <a href="https://rgsaura.com">
-  <!-- <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github" /> -->
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github&bg_color=00000000&title_color=33A6FF" /> 
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF" />
 </a>
 </p>
 
