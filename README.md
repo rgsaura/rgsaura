@@ -1,7 +1,7 @@
 ![](https://media.licdn.com/dms/image/D4D16AQEaonu1Vu7WOQ/profile-displaybackgroundimage-shrink_350_1400/0/1694688301380?e=1700697600&v=beta&t=yjsNqRJvcF75FjiRN-0za0LmQYnKZ3ZIgBio9KrIKxc)
 
-<h1 align="left">⚡️ Hi! I'm Rodrigo</h1>
-<h3 align="left">✘ CyberSecurity Specialist | ᯤ Cloud Engineer | ✶ AR & AI</h3>
+
+<h3 align="left">⚡️ Hi! I'm Rodrigo ▻ ▻ ▻ ✘ CyberSecurity Specialist | ᯤ Cloud Engineer | ✶ AR & AI</h3>
 
 
 <p align="left">
