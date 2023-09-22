@@ -70,7 +70,7 @@
 
 <p align="left">
 <a href="https://rgsaura.com">
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=radical&rank_icon=github" />
+  <!-- <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=radical&rank_icon=github" /> -->
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </a>
 </p>
