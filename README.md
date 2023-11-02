@@ -75,7 +75,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="500%">
+    <td valign="top" width="50%">
 
 ### ❖ Templates
 > For you to use or inspire you in your projects...
