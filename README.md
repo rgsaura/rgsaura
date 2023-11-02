@@ -21,12 +21,13 @@
    <a href="" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="CC" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/680x680/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="Microsof" width="40" height="40"/>
   </a>
     <a href="" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" alt="SSCP" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="Microsof" width="40" height="40"/>
+  
 
 ##
 
