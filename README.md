@@ -70,3 +70,33 @@
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF&hide_border=true" />
 </a>
 
+##
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### ❖ Templates
+> For you to use or inspire you in your projects / environments...
+
+- <a href="https://github.com/rgsaura/DotFiles-">DotFiles</a>: Config files for popular tools to get you started.
+- <a href="https://github.com/rgsaura/3D_Menu">3D_Menu</a>: Built with Threejs, a cool 3D template for your portfolio.
+- <a href="https://github.com/rgsaura/VR_showroom">VR_showroom</a>: Built with playcanvasVR, a small and modular 3D room.
+
+    </td>
+    <td valign="top" width="50%">
+
+### ❖ Projects
+> Interesting things you might get value from...
+
+- <a href="https://exohuman.io">Exohuman.io</a>: Personal project focus on developing a personal infrastructure.
+- <a href="https://www.linkedin.com/pulse/build-your-private-cloud-rodrigo-garcia/?trackingId=6EzoLO5FRyyi5nasBlN2og%3D%3D">Personal DATA CENTER, APP HOSTING & SOC</a>: Find inspiration for your infrastructre
+- <a href="https://www.linkedin.com/pulse/i-built-ar-studio-timemachine-rodrigo-garcia/?trackingId=6EzoLO5FRyyi5nasBlN2og%3D%3D">AR Studio</a>: Multicam studio with personalized software.
+
+
+
+
+    </td>
+  </tr>
+</table>
+
