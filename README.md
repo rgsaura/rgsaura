@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">✘ CyberSecurity Specialist | ᯤ Cloud Engineer | ✶ AR & AI</h3>
+<h3 align="center">✘ CyberSecurity | ⎈ SysAdmin | ᯤ FS Dev | ✶ AR & AI</h3>
 
 
 <p align="center">
