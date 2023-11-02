@@ -72,31 +72,35 @@
 
 
 
-
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
-### ❖ Templates
-> For you to use or inspire you in your projects...
+### ❖ Utilities
+> Tools and scripts for efficiency and productivity.
 
-- [DotFiles](https://github.com/rgsaura/DotFiles-): Config files for popular tools.
-- [Useful_Scripts](https://github.com/rgsaura/Useful_Scripts): Handy scripts for your enviroment
-- [3D_Menu](https://github.com/rgsaura/3D_Menu): Built with Threejs, 3D portfolio.
-- [VR_showroom](https://github.com/rgsaura/VR_showroom): Built with playcanvasVR, 3D room.
-
-
+- [DotFiles](https://github.com/rgsaura/DotFiles-)
+- [Useful_Scripts](https://github.com/rgsaura/Useful_Scripts)
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 ### ❖ Projects
 > Interesting projects you might get value from...
 
-- [Exohuman.io](https://exohuman.io): Develop your personal infrastructure.
-- [Personal DATA CENTER, APP HOSTING & SOC](https://www.linkedin.com/pulse/build-your-private-cloud-rodrigo-garcia/?trackingId=6EzoLO5FRyyi5nasBlN2og%3D%3D)
-- [AR Studio](https://www.linkedin.com/pulse/i-built-ar-studio-timemachine-rodrigo-garcia/?trackingId=6EzoLO5FRyyi5nasBlN2og%3D%3D): Multicam studio with custom software.
+- [Exohuman.io](https://exohuman.io)
+- [AR Studio](https://www.linkedin.com/pulse/i-built-ar-studio-timemachine-rodrigo-garcia/?trackingId=6EzoLO5FRyyi5nasBlN2og%3D%3D)
+
+    </td>
+    <td valign="top" width="33%">
+
+### ❖ Templates
+> For you to use or inspire you in your projects...
+
+- [3D_Menu](https://github.com/rgsaura/3D_Menu)
+- [VR_showroom](https://github.com/rgsaura/VR_showroom)
 
     </td>
   </tr>
 </table>
+
