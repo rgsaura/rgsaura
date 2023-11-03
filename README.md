@@ -72,7 +72,8 @@
 
 ##
 
-![images 16-9](https://github.com/rgsaura/rgsaura/assets/16281075/59b02d45-2a5b-4455-97cd-703a702af4ea)
+
+![images 16-9-2](https://github.com/rgsaura/rgsaura/assets/16281075/4b1a4af0-f2aa-44a0-b569-6d6a1206b572)
 
 
 
