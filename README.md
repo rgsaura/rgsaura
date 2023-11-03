@@ -85,6 +85,8 @@
 
 - [DotFiles](https://github.com/rgsaura/DotFiles-)
 - [Useful_Scripts](https://github.com/rgsaura/Useful_Scripts)
+- [Favorite_Browser_Extensions](https://github.com/rgsaura/Favorite_Browser_Extensions)
+
 
     </td>
     <td valign="top" width="33%">
