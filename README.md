@@ -52,14 +52,15 @@
   <a>
     <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="" width="40" height="40"/>
   </a>
-  
 
 
 <p align="center">
+  
+  
   <a href="https://www.hackthebox.eu/profile/182460">
-    <img src="https://www.hackthebox.eu/badge/image/1542359" alt="Hack The Box">
+    <img src="https://www.hackthebox.eu/badge/image/1542359" alt="Hack The Box" width="130" height="30">
   </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=rgsaura&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frgsaura&logo=leetcode&logoColor=yellow" alt="Hack The Box" width="150" height="30">
   </a>
