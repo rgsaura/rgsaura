@@ -53,10 +53,9 @@
     <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="" width="40" height="40"/>
   </a>
 
+##
 
 <p align="center">
-  
-  
   <a href="https://www.hackthebox.eu/profile/182460">
     <img src="https://www.hackthebox.eu/badge/image/1542359" alt="Hack The Box" width="130" height="30">
   </a>
