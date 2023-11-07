@@ -68,7 +68,7 @@
 ##
 
 <p align="center">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=rgsaura&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frgsaura&logo=leetcode&logoColor=yellow" alt="Hack The Box" width="120" height="25">
   </a>
@@ -85,6 +85,14 @@
 ##
 
 <h3 align="center">⚔︎ Personal Infrastructure</h3>
+<div align="center">
+
+```bash
+https://raw.com/set-up.sh | sh
+```
+
+</div>
+
 
 ![images 16-9-2](https://github.com/rgsaura/rgsaura/assets/16281075/f62e8829-3c49-4825-b761-1519ddba279d)
 
