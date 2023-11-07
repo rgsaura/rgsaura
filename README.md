@@ -53,6 +53,18 @@
     <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="" width="40" height="40"/>
   </a>
 
+
+##
+
+
+<a href="">
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github&bg_color=00000000&title_color=33A6FF&card_width=320&hide_border=true" /> 
+</a>
+<a href="">
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF&hide_border=true" />
+</a>
+
+
 ##
 
 <p align="center">
@@ -65,17 +77,6 @@
   </a>
   
 </p>
-
-
-##
-
-
-<a href="">
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github&bg_color=00000000&title_color=33A6FF&card_width=320&hide_border=true" /> 
-</a>
-<a href="">
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF&hide_border=true" />
-</a>
 
 ##
 
