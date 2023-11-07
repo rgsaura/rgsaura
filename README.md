@@ -85,16 +85,19 @@
 ##
 
 <h3 align="center">⚔︎ Personal Infrastructure</h3>
-<div align="center">
-
-```bash
-https://raw.com/set-up.sh | sh
-```
-
-</div>
 
 
 ![images 16-9-2](https://github.com/rgsaura/rgsaura/assets/16281075/f62e8829-3c49-4825-b761-1519ddba279d)
+
+<div align="center">
+  
+```bash
+https://exohuman.io/set-up.sh | sh
+```
+![exohuman-sh](https://github.com/rgsaura/rgsaura/assets/16281075/28872a56-9ac0-48f8-ba16-700559facb0d)
+
+</div>
+
 
 
 <table width="100%">
