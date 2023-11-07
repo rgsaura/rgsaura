@@ -92,7 +92,7 @@
 <div align="center">
   
 ```bash
-https://exohuman.io/set-up.sh | sh
+curl https://exohuman.io/set-up.sh | sh
 ```
 ![exohuman-sh](https://github.com/rgsaura/rgsaura/assets/16281075/28872a56-9ac0-48f8-ba16-700559facb0d)
 
