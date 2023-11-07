@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://www.hackthebox.eu/profile/182460">
-    <img src="https://www.hackthebox.eu/badge/image/1542359" alt="Hack The Box" width="150" height="30">
+    <img src="https://www.hackthebox.eu/badge/image/1542359" alt="Hack The Box">
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="">
