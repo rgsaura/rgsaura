@@ -1,8 +1,6 @@
 ![](https://media.licdn.com/dms/image/D4D16AQEaonu1Vu7WOQ/profile-displaybackgroundimage-shrink_350_1400/0/1694688301380?e=1700697600&v=beta&t=yjsNqRJvcF75FjiRN-0za0LmQYnKZ3ZIgBio9KrIKxc)
 
 
-
-
 <h3 align="center">✘ CyberSecurity | ⎈ SysAdmin | ᯤ FS Dev | ✶ AR & AI</h3>
 
 
@@ -52,13 +50,22 @@
     <img src="https://images.credly.com/size/680x680/images/5a16ec87-6eb4-4c6e-8843-60b6e8583735/image.png" alt="" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://images.credly.com/size/680x680/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png" alt="" width="40" height="40"/>
-  </a>
-  <a>
     <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="" width="40" height="40"/>
   </a>
-
   
+
+
+<p align="center">
+  <a href="https://www.hackthebox.eu/profile/182460">
+    <img src="https://www.hackthebox.eu/badge/image/1542359" alt="Hack The Box" width="150" height="30">
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=rgsaura&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frgsaura&logo=leetcode&logoColor=yellow" alt="Hack The Box" width="150" height="30">
+  </a>
+  
+</p>
+
 
 ##
 
