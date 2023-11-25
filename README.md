@@ -56,14 +56,14 @@
 
 ##
 
-
+<div align="center">
 <a href="">
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github&bg_color=00000000&title_color=33A6FF&card_width=320&hide_border=true" /> 
 </a>
 <a href="">
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF&hide_border=true" />
 </a>
-
+</div>
 
 ##
 
@@ -84,16 +84,20 @@
 
 ##
 
-<h3 align="center">⚔︎ Personal Infrastructure</h3>
+<h3 align="center">⚔︎ Personal Infrastructure ⚔︎</h3>
 
 
-![images 16-9-2](https://github.com/rgsaura/rgsaura/assets/16281075/f62e8829-3c49-4825-b761-1519ddba279d)
 
 <div align="center">
-  
+
+![images 16-9](https://github.com/rgsaura/rgsaura/assets/16281075/c8c8edb5-5f67-4814-a6ac-d0cc0983dbda)
+
+<!--  
 ```bash
 curl -L https://exohuman.io/set-up | sh
 ```
+-->
+
 ![exohuman-sh](https://github.com/rgsaura/rgsaura/assets/16281075/28872a56-9ac0-48f8-ba16-700559facb0d)
 
 </div>
