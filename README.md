@@ -61,17 +61,6 @@
 
 ##
 
-<div align="center">
-<a>
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github&bg_color=00000000&title_color=33A6FF&card_width=320&hide_border=true" /> 
-</a>
-<a>
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF&hide_border=true" />
-</a>
-</div>
-
-##
-
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
@@ -87,12 +76,25 @@
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/rgsaura"width="160" height="25">
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/rgsaura"width="150" height="25">
   </a>
   <!-- 
    <img src="https://img.shields.io/youtube/channel/views/UCPZ-1ZiZTTo0xyUPVePNe4g?style=flat-square&logo=youtube&logoColor=red&label=YouTube&labelColor=black"width="120" height="25">
   -->
 </p>
+
+<div align="center">
+<a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github&bg_color=00000000&title_color=33A6FF&card_width=320&hide_border=true" /> 
+</a>
+<a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF&hide_border=true" />
+</a>
+</div>
+
+
+
+
 
 ##
 
