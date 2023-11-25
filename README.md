@@ -77,15 +77,16 @@
   <a>
     <img src="https://www.hackthebox.eu/badge/image/1542359" alt="Hack The Box" width="130" height="30">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a>
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/rgsaura.png" width="130" height="30"/> 
+  </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/youtube/channel/views/UCPZ-1ZiZTTo0xyUPVePNe4g?style=flat-square&logo=youtube&logoColor=red&label=YouTube&labelColor=black" alt="Hack The Box" width="120" height="25">
   </a>
   <!-- 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/rgsaura.png" width="300" /> 
-  </a>
+   
   -->
 </p>
 
