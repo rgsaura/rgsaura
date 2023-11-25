@@ -75,11 +75,11 @@
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=rgsaura&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frgsaura&logo=leetcode&logoColor=yellow" alt="Hack The Box" width="120" height="25">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=rgsaura&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frgsaura&logo=leetcode&logoColor=yellow"width="120" height="25">
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="https://www.hackthebox.eu/badge/image/1542359" alt="Hack The Box" width="130" height="30">
+    <img src="https://www.hackthebox.eu/badge/image/1542359"width="130" height="30">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
@@ -87,13 +87,12 @@
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="https://img.shields.io/youtube/channel/views/UCPZ-1ZiZTTo0xyUPVePNe4g?style=flat-square&logo=youtube&logoColor=red&label=YouTube&labelColor=black" alt="Hack The Box" width="120" height="25">
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/rgsaura"width="160" height="25">
   </a>
   <!-- 
-   
+   <img src="https://img.shields.io/youtube/channel/views/UCPZ-1ZiZTTo0xyUPVePNe4g?style=flat-square&logo=youtube&logoColor=red&label=YouTube&labelColor=black"width="120" height="25">
   -->
 </p>
-
 
 ##
 
