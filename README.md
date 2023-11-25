@@ -10,7 +10,7 @@
 
 
   <a>
-    <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-b68df23/www.ciat.edu/wp-content/uploads/2020/12/linux-logo.png" alt="AWS CP" width="40" height="40"/>
+    <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-b68df23/www.ciat.edu/wp-content/uploads/2020/12/linux-logo.png" alt="AWS CP" height="40"/>
   </a>
   <a>
     <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CP" width="40" height="40"/>
@@ -22,7 +22,7 @@
 
 
    <a>
-    <img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" alt="CPTS" width="40" height="40"/>
+    <img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" alt="CPTS"  height="45"/>
   </a>
    <a>
     <img src="https://cyberdefenders.org/static/img/ccd-badge.svg" alt="CDD" width="40" height="40"/>
