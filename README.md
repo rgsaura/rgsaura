@@ -1,4 +1,5 @@
-![](https://media.licdn.com/dms/image/D4D16AQEaonu1Vu7WOQ/profile-displaybackgroundimage-shrink_350_1400/0/1694688301380?e=1700697600&v=beta&t=yjsNqRJvcF75FjiRN-0za0LmQYnKZ3ZIgBio9KrIKxc)
+
+![cover linkedin](https://github.com/rgsaura/rgsaura/assets/16281075/d881d2fe-74b6-4226-a557-6a5c6f8eb0ae)
 
 
 <h3 align="center">✘ CyberSecurity | ⎈ SysAdmin | ᯤ FS Dev | ✶ AR & AI</h3>
