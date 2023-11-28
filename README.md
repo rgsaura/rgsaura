@@ -110,16 +110,21 @@
 <div align="center">
 
 
-<h3 align="center">⚔︎ Personal Infrastructure ⚔︎</h3>
+<!--  <h3 align="center">⚔︎ Personal Infrastructure ⚔︎</h3> -->
+
+<img width="487" alt="infrastructure" src="https://github.com/rgsaura/rgsaura/assets/16281075/29811cb6-707a-42df-8f06-18c01d014002">
 
 
-![images 16-9](https://github.com/rgsaura/rgsaura/assets/16281075/4b5682a0-5894-4c5f-bccf-0b10c3fb79e0)
+
+![286153677-4b5682a0-5894-4c5f-bccf-0b10c3fb79e0](https://github.com/rgsaura/rgsaura/assets/16281075/15044061-3d22-4026-aaa9-15882be18ddb)
+
 
 
 
 ##
 
-<img width="523" alt="Screenshot 2023-11-28 at 06 47 22" src="https://github.com/rgsaura/rgsaura/assets/16281075/6d0e7447-130d-4e83-9086-3fb664f71229">
+<img width="522" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/def377f7-c99a-4167-9f36-615110902875">
+
 
 <!--  
 
