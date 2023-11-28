@@ -102,15 +102,7 @@
 </a>
 </div>
 
-
-
-
-
 ##
-
-
-
-
 
 <div align="center">
 
@@ -119,30 +111,15 @@
 
 <img width="491" alt="infrastructure" src="https://github.com/rgsaura/rgsaura/assets/16281075/4b7600d4-69cb-4d09-bc0d-8f5ba4fb6621">
 
-
-
-
-
 ![286153677-4b5682a0-5894-4c5f-bccf-0b10c3fb79e0](https://github.com/rgsaura/rgsaura/assets/16281075/15044061-3d22-4026-aaa9-15882be18ddb)
-
-
-
 
 ##
 
-
-
-
-
 <img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/70fe0901-554e-4896-9350-4f948688b731">
-
-
-
 
 ```bash
 curl -sL https://cli.exohuman.io/use | sh
 ```
-
 
 </div>
 
