@@ -60,6 +60,9 @@
 
 
 ##
+<div align="center">
+<img width="300" alt="statistics" src="https://github.com/rgsaura/rgsaura/assets/16281075/dd1ac03b-e694-4c23-b0d4-0316096ba9f4">
+</div>
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
