@@ -107,7 +107,8 @@
 
 <h3 align="center">⚔︎ Personal Infrastructure ⚔︎</h3>
 
-![images 16-9](https://github.com/rgsaura/rgsaura/assets/16281075/c8c8edb5-5f67-4814-a6ac-d0cc0983dbda)
+
+![images 16-9](https://github.com/rgsaura/rgsaura/assets/16281075/4b5682a0-5894-4c5f-bccf-0b10c3fb79e0)
 
 
 
