@@ -72,9 +72,14 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/rgsaura.png" width="130" height="30"/> 
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/rgsaura.png" width="90" height="30"/> 
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/RGSAURA.png" alt="TryHackMe" width="130" height="30">
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a>
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/rgsaura"width="150" height="25">
   </a>
