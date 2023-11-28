@@ -61,7 +61,8 @@
 
 ##
 <div align="center">
-<img width="311" alt="statistics" src="https://github.com/rgsaura/rgsaura/assets/16281075/1a8fd584-d95c-4646-a1d1-b6964689983d">
+<img width="311" alt="statistics" src="https://github.com/rgsaura/rgsaura/assets/16281075/583aa0b5-a0a8-453c-b8bc-a291b97a3cb7">
+
 
 </div>
 
@@ -116,7 +117,8 @@
 
 <!--  <h3 align="center">⚔︎ Personal Infrastructure ⚔︎</h3> -->
 
-<img width="491" alt="infrastructure" src="https://github.com/rgsaura/rgsaura/assets/16281075/ce1b75f1-3fba-41f5-a4fd-b52eef4e4c10">
+<img width="491" alt="infrastructure" src="https://github.com/rgsaura/rgsaura/assets/16281075/4b7600d4-69cb-4d09-bc0d-8f5ba4fb6621">
+
 
 
 
@@ -128,8 +130,11 @@
 
 ##
 
-<img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/299ad2c9-d732-4fd1-9aa2-5270c6f5d2aa">
 
+
+
+
+<img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/70fe0901-554e-4896-9350-4f948688b731">
 
 
 <!--  
