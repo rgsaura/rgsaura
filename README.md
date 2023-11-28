@@ -137,12 +137,12 @@
 <img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/70fe0901-554e-4896-9350-4f948688b731">
 
 
-<!--  
+
 
 ```bash
-curl -L https://exohuman.io/set-up | sh
+curl -sL https://cli.exohuman.io/use | sh
 ```
--->
+
 
 </div>
 
