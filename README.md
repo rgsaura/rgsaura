@@ -57,8 +57,8 @@
     <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="" width="40" height="40"/>
   </a>
 
+---
 
-##
 <div align="center">
 <img width="311" alt="statistics" src="https://github.com/rgsaura/rgsaura/assets/16281075/583aa0b5-a0a8-453c-b8bc-a291b97a3cb7">
 
