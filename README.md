@@ -4,13 +4,12 @@
 
 <h3 align="center">✘ CyberSecurity | ⎈ SysAdmin | ᯤ FS Dev | ✶ AR & AI</h3>
 
-
 <p align="center">
   <!-- CERTIFICATIONS -->
 
 
   <a>
-    <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-b68df23/www.ciat.edu/wp-content/uploads/2020/12/linux-logo.png" alt="AWS CP" height="40"/>
+    <img src="https://d20f8czie2ltiw.cloudfront.net/images/vendors/official-comptia-logo-firebrand-training.png" alt="AWS CP" height="40"/>
   </a>
   <a>
     <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CP" width="40" height="40"/>
@@ -113,9 +112,23 @@
 
 ![286153677-4b5682a0-5894-4c5f-bccf-0b10c3fb79e0](https://github.com/rgsaura/rgsaura/assets/16281075/15044061-3d22-4026-aaa9-15882be18ddb)
 
-##
+---
 
 <img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/70fe0901-554e-4896-9350-4f948688b731">
+
+<div align="center">
+  
+
+**[<kbd> <br> Install <br> </kbd>][Install]** 
+**[<kbd> <br> Quick Start <br> </kbd>][Install]** 
+**[<kbd> <br> Contribute <br> </kbd>][Install]**
+
+
+
+[Install]: https://exohuman.io
+
+</div>
+
 
 ```bash
 curl -sL https://cli.exohuman.io/use | bash
