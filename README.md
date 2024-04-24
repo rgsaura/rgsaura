@@ -170,6 +170,7 @@ curl -sL https://cli.exohuman.io/use | bash
 - [3D_Menu](https://github.com/rgsaura/3D_Menu)
 - [VR_showroom](https://github.com/rgsaura/VR_showroom)
 - [AI_chatbot](https://github.com/rgsaura/ai_chatbot-factam)
+- [HA_Blue_Cyberpunk_Theme](https://github.com/rgsaura/Blue_Tech_Cyberpunk-Home-Assistant-theme)
 
     </td>
   </tr>
