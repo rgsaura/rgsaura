@@ -151,7 +151,8 @@ curl -sL https://cli.exohuman.io/use | bash
 - [Useful_Scripts](https://github.com/rgsaura/Useful_Scripts)
 - [Favorite_Browser_Extensions](https://github.com/rgsaura/Favorite_Browser_Extensions)
 - [HA-SendActiveTab](https://github.com/rgsaura/HA-SendActiveTab)
-
+- [Favorite-Browser-extensions](https://www.linkedin.com/pulse/my-favorite-web-extensions-rodrigo-garcia/?trackingId=NgF2mpyPQ7KSWdM4UJfmyQ%3D%3D)
+- [MultiOS set-up](https://www.linkedin.com/pulse/my-favorite-macos-set-up-rodrigo-garcia/?trackingId=NgF2mpyPQ7KSWdM4UJfmyQ%3D%3D)
 
 
     </td>
