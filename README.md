@@ -127,13 +127,15 @@
 
 [Install]: https://exohuman.io
 
+
+![HA_RGSAURA](https://github.com/rgsaura/rgsaura/assets/16281075/786487dc-a3c4-4a26-b22c-e035dfe3a2a4)
 </div>
 
-
+<!--
 ```bash
 curl -sL https://cli.exohuman.io/use | bash
 ```
-
+-->
 </div>
 
 
