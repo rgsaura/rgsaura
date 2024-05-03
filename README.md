@@ -185,6 +185,7 @@ curl -sL https://cli.exohuman.io/use | bash
 - [AI_chatbot](https://github.com/rgsaura/ai_chatbot-factam)
 - [HA_Blue_Cyberpunk_Theme](https://github.com/rgsaura/Blue_Tech_Cyberpunk-Home-Assistant-theme)
 - [KaliBspwm](https://github.com/rgsaura/KaliBspwm_RG)
+- [Vivaldi-Template](https://github.com/rgsaura/Vivaldi-Template-RG)
 
     </td>
   </tr>
