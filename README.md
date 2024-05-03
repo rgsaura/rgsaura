@@ -5,10 +5,9 @@
 
 <!-- RRSS  -->
 <div align="center">
-<a href="https://www.linkedin.com/in/aharoJ/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
-<a href="https://aharoj.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=pink" alt="Portfolio" /></a>&nbsp;
-<a href="https://twitter.com/aharoJ"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter" /></a>&nbsp;
-<a href="https://leetcode.com/aharoJ/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/rgsaura/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
+<a href="https://rgsaura.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=pink" alt="Website" /></a>&nbsp;
+<a href="https://twitter.com/rgsaura"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter" /></a>&nbsp;
 </div>  
 
 
@@ -135,7 +134,7 @@
 [Install]: https://exohuman.io
 
 <p align="center">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=4000&pause=1000&random=false&width=440&height=56&lines=Angel+J.+Haro%3A+Dedicated+Software+Engineer.;Backend%3A+Java%2C+Python%2C++C%2B%2B;Frontend%3A+JavaScript%2C+TypeScript%2C+HTML%26CSS;Frameworks%3A+Spring+Boot%2C+Django%2C+ReactJs;Check+out+my+portfolio+at+aharoj.io](https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Your+Life's+Infrastructure;An+infinite+purpose+with+a+legacy+to+build+upon;Custom+Spatial+UIs+with+adaptive+UIs+and+automations)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Your+Life's+Infrastructure;An+infinite+purpose+with+a+legacy+to+build+upon;Custom+Spatial+UIs+with+adaptive+UIs+and+automations)" alt="Typing SVG" />
 </p>
 
 ![HA_RGSAURA](https://github.com/rgsaura/rgsaura/assets/16281075/786487dc-a3c4-4a26-b22c-e035dfe3a2a4)
