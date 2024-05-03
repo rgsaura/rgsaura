@@ -3,14 +3,6 @@
 
 <h3 align="center">✘ Cyber || ⎈ DevOps || ᯅ VisionOS || ✶ GenAI || ᯤ IoT</h3>
 
-<!-- RRSS  -->
-<div align="center">
-<a href="https://www.linkedin.com/in/rgsaura/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
-<a href="https://rgsaura.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=pink" alt="Website" /></a>&nbsp;
-<a href="https://twitter.com/rgsaura"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter" /></a>&nbsp;
-</div>  
-
-
 
 <p align="center">
   <!-- CERTIFICATIONS -->
@@ -65,6 +57,14 @@
     <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="" width="40" height="40"/>
   </a>
 
+<!-- RRSS  -->
+<div align="center">
+<a href="https://www.linkedin.com/in/rgsaura/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
+<a href="https://rgsaura.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=pink" alt="Website" /></a>&nbsp;
+<a href="https://twitter.com/rgsaura"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter" /></a>&nbsp;
+</div>  
+
+<!-- STATISTICS  -->
 ---
 
 <div align="center">
@@ -120,6 +120,7 @@
 
 ![286153677-4b5682a0-5894-4c5f-bccf-0b10c3fb79e0](https://github.com/rgsaura/rgsaura/assets/16281075/15044061-3d22-4026-aaa9-15882be18ddb)
 
+<!-- EXOHUMAN  -->
 ---
 
 <img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/70fe0901-554e-4896-9350-4f948688b731">
