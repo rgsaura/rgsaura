@@ -15,19 +15,14 @@
     <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CP" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://images.credly.com/size/680x680/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="Microsof" width="40" height="40"/>
+    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsof" width="40" height="40"/>
   </a>
-
-
-
    <a>
     <img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" alt="CPTS"  height="45"/>
   </a>
    <a>
     <img src="https://cyberdefenders.org/static/img/ccd-badge.svg" alt="CDD" width="40" height="40"/>
   </a>
-
-  
    <a>
     <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="CC" width="40" height="40"/>
   </a>
@@ -42,9 +37,6 @@
     <img src="https://images.credly.com/size/680x680/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" alt="" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://images.credly.com/size/680x680/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" alt="" width="40" height="40"/>
-  </a>
-  <a>
     <img src="https://images.credly.com/size/680x680/images/64bd404e-d483-4d1b-868b-477ae700fef9/image.png" alt="" width="40" height="40"/>
   </a>
   <a>
@@ -54,7 +46,7 @@
     <img src="https://images.credly.com/size/680x680/images/5a16ec87-6eb4-4c6e-8843-60b6e8583735/image.png" alt="" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="" width="40" height="40"/>
+    <img src="https://images.credly.com/size/110x110/images/36213c7a-7c07-4856-8991-ef150065af11/c45c8f69-0d83-4c67-bc05-6911de5cca91.png" alt="" width="40" height="40"/>
   </a>
 
 <!-- RRSS  -->
@@ -91,11 +83,10 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/RGSAURA.png" alt="TryHackMe" width="130" height="30">
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+    <!-- 
   <a>
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/rgsaura"width="150" height="25">
   </a>
-  <!-- 
    <img src="https://img.shields.io/youtube/channel/views/UCPZ-1ZiZTTo0xyUPVePNe4g?style=flat-square&logo=youtube&logoColor=red&label=YouTube&labelColor=black"width="120" height="25">
   -->
 </p>
