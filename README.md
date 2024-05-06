@@ -60,7 +60,7 @@
 <!-- RRSS  -->
 <div align="center">
 <a href="https://www.linkedin.com/in/rgsaura/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
-<a href="https://rgsaura.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=pink" alt="Website" /></a>&nbsp;
+<a href="https://rgsaura.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=blue" alt="Website" /></a>&nbsp;
 <a href="https://twitter.com/rgsaura"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter" /></a>&nbsp;
 </div>  
 
