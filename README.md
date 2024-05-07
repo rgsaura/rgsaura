@@ -129,8 +129,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Your+Life's+Infrastructure;An+infinite+purpose+with+a+legacy+to+build+upon;Custom+Spatial+UIs+with+adaptive+UIs+and+automations)" alt="Typing SVG" />
 </p>
 
-<img src="https://github.com/rgsaura/rgsaura/assets/16281075/4e630a06-27b5-464d-bf7e-da6e0e71d161" width="30%"></img> <img src="https://github.com/rgsaura/rgsaura/assets/16281075/0103ceef-405a-4161-8ff4-033631c8b850" width="30%"></img> <img src="https://github.com/rgsaura/rgsaura/assets/16281075/a052c450-f857-476e-aa3f-4f68123b83d1" width="30%"></img> 
-</div>
+<img src="https://github.com/rgsaura/rgsaura/assets/16281075/4e630a06-27b5-464d-bf7e-da6e0e71d161" width="45%"></img> <img src="https://github.com/rgsaura/rgsaura/assets/16281075/a052c450-f857-476e-aa3f-4f68123b83d1" width="45%"></img> 
 
 <!--
 ```bash
