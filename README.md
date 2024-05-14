@@ -1,7 +1,7 @@
 
 ![cover linkedin](https://github.com/rgsaura/rgsaura/assets/16281075/d881d2fe-74b6-4226-a557-6a5c6f8eb0ae)
 
-<h3 align="center">✘ Cyber || ⎈ DevOps || ᯅ VisionOS || ✶ GenAI || ᯤ IoT</h3>
+<h3 align="center">✘ Cyber || ⎈ DevOps ||  Swift || ✶ GenAI || ᯤ IoT</h3>
 
 
 <p align="center">
