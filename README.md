@@ -1,131 +1,15 @@
 
 ![cover linkedin](https://github.com/rgsaura/rgsaura/assets/16281075/d881d2fe-74b6-4226-a557-6a5c6f8eb0ae)
 
-<h3 align="center">✘ Cyber || ⎈ DevOps ||  Swift || ✶ GenAI || ᯤ IoT</h3>
-
-
-<p align="center">
-  <!-- CERTIFICATIONS -->
-
-
-  <a>
-    <img src="https://d20f8czie2ltiw.cloudfront.net/images/vendors/official-comptia-logo-firebrand-training.png" alt="AWS CP" height="40"/>
-  </a>
-  <a>
-    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CP" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsof" width="40" height="40"/>
-  </a>
-   <a>
-    <img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" alt="CPTS"  height="45"/>
-  </a>
-   <a>
-    <img src="https://cyberdefenders.org/static/img/ccd-badge.svg" alt="CDD" width="40" height="40"/>
-  </a>
-   <a>
-    <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="CC" width="40" height="40"/>
-  </a>
-  </a>
-  <a>
-    <img src="https://images.credly.com/size/680x680/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" alt="SSCP" width="40" height="40"/>
-  </a>
-
-
-
 <!-- RRSS  -->
 <div align="center">
-<a href="https://www.linkedin.com/in/rgsaura/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/rgsaura/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
 <a href="https://rgsaura.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=blue" alt="Website" /></a>&nbsp;
 <a href="https://twitter.com/rgsaura"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter" /></a>&nbsp;
+
 </div>  
 
-<!-- STATISTICS  -->
----
-
-<div align="center">
-<img width="311" alt="statistics" src="https://github.com/rgsaura/rgsaura/assets/16281075/583aa0b5-a0a8-453c-b8bc-a291b97a3cb7">
-
-
-</div>
-
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=rgsaura&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frgsaura&logo=leetcode&logoColor=yellow"width="120" height="25">
-  </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <img src="https://www.hackthebox.eu/badge/image/1542359"width="130" height="30">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/rgsaura.png" width="90" height="30"/> 
-  </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/RGSAURA.png" alt="TryHackMe" width="130" height="30">
-  </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <!-- 
-  <a>
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/rgsaura"width="150" height="25">
-  </a>
-   <img src="https://img.shields.io/youtube/channel/views/UCPZ-1ZiZTTo0xyUPVePNe4g?style=flat-square&logo=youtube&logoColor=red&label=YouTube&labelColor=black"width="120" height="25">
-  -->
-</p>
-
-<div align="center">
-<a>
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github&bg_color=00000000&title_color=33A6FF&card_width=320&hide_border=true" /> 
-</a>
-<a>
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF&hide_border=true" />
-</a>
-</div>
-
-##
-
-<div align="center">
-
-
-<!--  <h3 align="center">⚔︎ Personal Infrastructure ⚔︎</h3> -->
-
-<img width="491" alt="infrastructure" src="https://github.com/rgsaura/rgsaura/assets/16281075/4b7600d4-69cb-4d09-bc0d-8f5ba4fb6621">
-
-![286153677-4b5682a0-5894-4c5f-bccf-0b10c3fb79e0](https://github.com/rgsaura/rgsaura/assets/16281075/15044061-3d22-4026-aaa9-15882be18ddb)
-
-<img src="https://github.com/rgsaura/rgsaura/assets/16281075/30777afb-9c6a-497a-8fb7-db6040c9f3d1" width="45%"></img> <img src="https://github.com/rgsaura/rgsaura/assets/16281075/34d76ba9-bbf8-4bb0-bbbc-c10bd50915aa" width="45%"></img> 
-
-
-<!-- EXOHUMAN  -->
----
-
-<img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/70fe0901-554e-4896-9350-4f948688b731">
-
-<div align="center">
-  
-
-**[<kbd> <br> Install <br> </kbd>][Install]** 
-**[<kbd> <br> Quick Start <br> </kbd>][Install]** 
-**[<kbd> <br> Contribute <br> </kbd>][Install]**
-
-[Install]: https://exohuman.io
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Your+Life's+Infrastructure;An+infinite+purpose+with+a+legacy+to+build+upon;Custom+Spatial+UIs+with+adaptive+UIs+and+automations)" alt="Typing SVG" />
-</p>
-
-<img src="https://github.com/rgsaura/rgsaura/assets/16281075/4e630a06-27b5-464d-bf7e-da6e0e71d161" width="45%"></img> <img src="https://github.com/rgsaura/rgsaura/assets/16281075/a052c450-f857-476e-aa3f-4f68123b83d1" width="45%"></img> 
-
-<!--
-```bash
-curl -sL https://cli.exohuman.io/use | bash
-```
--->
-</div>
-
-
+------
 
 <table width="100%">
   <tr>
@@ -138,7 +22,6 @@ curl -sL https://cli.exohuman.io/use | bash
 - [Useful_Scripts](https://github.com/rgsaura/Useful_Scripts)
 - [Favorite_Browser_Extensions](https://github.com/rgsaura/Favorite_Browser_Extensions)
 - [HA-SendActiveTab](https://github.com/rgsaura/HA-SendActiveTab)
-- [Favorite-Browser-extensions](https://www.linkedin.com/pulse/my-favorite-web-extensions-rodrigo-garcia/?trackingId=NgF2mpyPQ7KSWdM4UJfmyQ%3D%3D)
 - [MultiOS set-up](https://www.linkedin.com/pulse/my-favorite-macos-set-up-rodrigo-garcia/?trackingId=NgF2mpyPQ7KSWdM4UJfmyQ%3D%3D)
 
 
@@ -167,6 +50,100 @@ curl -sL https://cli.exohuman.io/use | bash
     </td>
   </tr>
 </table>
+
+<p align="center">
+  
+
+
+
+<!-- STATISTICS  -->
+---
+
+<div align="center">
+<img width="311" alt="statistics" src="https://github.com/rgsaura/rgsaura/assets/16281075/583aa0b5-a0a8-453c-b8bc-a291b97a3cb7">
+</div>
+
+<p align="center">
+
+  <!-- CERTIFICATIONS -->
+  <a>
+    <img src="https://d20f8czie2ltiw.cloudfront.net/images/vendors/official-comptia-logo-firebrand-training.png" alt="AWS CP" height="40"/>
+  </a>
+  <a>
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CP" width="40" height="40"/>
+  </a>
+  <a>
+    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsof" width="40" height="40"/>
+  </a>
+   <a>
+    <img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" alt="CPTS"  height="45"/>
+  </a>
+   <a>
+    <img src="https://cyberdefenders.org/static/img/ccd-badge.svg" alt="CDD" width="40" height="40"/>
+  </a>
+  </a>
+  <a>
+    <img src="https://images.credly.com/size/680x680/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" alt="SSCP" width="40" height="40"/>
+  </a>
+
+
+
+</p>
+
+
+
+<div align="center">
+<a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=rgsaura&show_icons=true&theme=transparent&rank_icon=github&bg_color=00000000&title_color=33A6FF&card_width=320&hide_border=true" /> 
+</a>
+<a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&bg_color=00000000&title_color=33A6FF&hide_border=true" />
+</a>
+</div>
+
+##
+
+<div align="center">
+
+
+<!--  <h3 align="center">⚔︎ Personal Infrastructure ⚔︎</h3> -->
+
+<img width="491" alt="infrastructure" src="https://github.com/rgsaura/rgsaura/assets/16281075/4b7600d4-69cb-4d09-bc0d-8f5ba4fb6621">
+
+<img width="750%" src="https://github.com/rgsaura/rgsaura/assets/16281075/15044061-3d22-4026-aaa9-15882be18ddb">
+
+<img src="https://github.com/rgsaura/rgsaura/assets/16281075/30777afb-9c6a-497a-8fb7-db6040c9f3d1" width="45%"></img> <img src="https://github.com/rgsaura/rgsaura/assets/16281075/34d76ba9-bbf8-4bb0-bbbc-c10bd50915aa" width="45%"></img> 
+
+
+<!-- EXOHUMAN  -->
+---
+
+<img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/70fe0901-554e-4896-9350-4f948688b731">
+
+<div align="center">
+<!--
+**[<kbd> <br> Install <br> </kbd>][Install]** 
+**[<kbd> <br> Quick Start <br> </kbd>][Install]** 
+**[<kbd> <br> Contribute <br> </kbd>][Install]**
+[Install]: https://exohuman.io
+-->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Your+Life's+Infrastructure;An+infinite+purpose+with+a+legacy+to+build+upon;Custom+Spatial+UIs+with+adaptive+UIs+and+automations" alt="Typing SVG" />
+</p>
+
+<img src="https://github.com/rgsaura/rgsaura/assets/16281075/4e630a06-27b5-464d-bf7e-da6e0e71d161" width="45%"></img> <img src="https://github.com/rgsaura/rgsaura/assets/16281075/a052c450-f857-476e-aa3f-4f68123b83d1" width="45%"></img> 
+
+<!--
+```bash
+curl -sL https://cli.exohuman.io/use | bash
+```
+-->
+</div>
+
+
+
+
 
 ---
 
