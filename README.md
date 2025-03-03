@@ -59,13 +59,12 @@
 <!-- STATISTICS  -->
 ---
 
-<div align="center">
+<!-- <div align="center">
 <img width="311" alt="statistics" src="https://github.com/rgsaura/rgsaura/assets/16281075/583aa0b5-a0a8-453c-b8bc-a291b97a3cb7">
 </div>
 
 <p align="center">
 
-  <!-- CERTIFICATIONS -->
   <a>
     <img src="https://d20f8czie2ltiw.cloudfront.net/images/vendors/official-comptia-logo-firebrand-training.png" alt="AWS CP" height="40"/>
   </a>
@@ -101,12 +100,11 @@
 </a>
 </div>
 
-##
 
-<div align="center">
+<div align="center"> -->
 
 
-<!--  <h3 align="center">⚔︎ Personal Infrastructure ⚔︎</h3> -->
+<!--  INFRASTRUCTURE -->
 
 <img width="491" alt="infrastructure" src="https://github.com/rgsaura/rgsaura/assets/16281075/4b7600d4-69cb-4d09-bc0d-8f5ba4fb6621">
 
