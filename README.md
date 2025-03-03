@@ -105,20 +105,21 @@
 
 
 <!--  INFRASTRUCTURE -->
+<div align="center">
 
 <img width="491" alt="infrastructure" src="https://github.com/rgsaura/rgsaura/assets/16281075/4b7600d4-69cb-4d09-bc0d-8f5ba4fb6621">
 
 <img width="750%" src="https://github.com/rgsaura/rgsaura/assets/16281075/15044061-3d22-4026-aaa9-15882be18ddb">
 
 <img src="https://github.com/rgsaura/rgsaura/assets/16281075/30777afb-9c6a-497a-8fb7-db6040c9f3d1" width="45%"></img> <img src="https://github.com/rgsaura/rgsaura/assets/16281075/34d76ba9-bbf8-4bb0-bbbc-c10bd50915aa" width="45%"></img> 
-
+</div>
 
 <!-- EXOHUMAN  -->
 ---
-
+<div align="center">
 <img width="528" alt="exohuman" src="https://github.com/rgsaura/rgsaura/assets/16281075/70fe0901-554e-4896-9350-4f948688b731">
 
-<div align="center">
+
 <!--
 **[<kbd> <br> Install <br> </kbd>][Install]** 
 **[<kbd> <br> Quick Start <br> </kbd>][Install]** 
